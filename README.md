@@ -2,7 +2,7 @@
 
 I'm a web developer full stack passionate about the Web3 ecosystem and cypherpunk culture.
 
-I've e been developing projects with cryptocurrencies, IPFS and Ethereum smart contracts in the last few years.
+I've e been developing projects with cryptocurrencies like Nanocurrency, IPFS and Ethereum smart contracts in the last few years.
 
 See more at: https://anarkrypto.github.io
 

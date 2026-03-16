@@ -1,20 +1,28 @@
 ### Hi 👋
 
-I'm a web developer full stack passionate about the Web3 ecosystem and cypherpunk culture.
+I'm a full stack web developer.
 
-I've e been developing projects with cryptocurrencies like Nanocurrency, IPFS and Ethereum smart contracts in the last few years.
+#typescript #react #next.js #nodejs #cloudflare-workers #tailwind #postgres
 
-See more at: https://anarkrypto.github.io
+Founder and Developer at [Pontuei](https:///www.pontuei.app.br)
 
-<a href="https://ethereum.org/" title="Ethereum"><img src="https://github.com/get-icon/geticon/blob/master/icons/ethereum.svg" alt="Ethereum" width="21px" height="21px"></a>
-<a href="https://ipfs.io/" title="IPFS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ipfs-logo-1024-ice-text.png/182px-Ipfs-logo-1024-ice-text.png" alt="IPFS" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+## Other Companies:
 
+- [Construbook](https://construbook.app)
+- [Grupo Elo](https://www.grupoeloba.com.br)
+- [Bioca](https://bioca.eco)
+- [Moy Farm](http://moy.farm)
+
+## Cryptocurrency and blockchain projects:
+
+- [NanoPay](https://nanopay.me/)
+- [NanoDrop](https://nanodrop.io)
+- [Smart Traceability](https://github.com/anarkrypto/smart-traceability)
+- [Confirmy Block](https://github.com/anarkrypto/confirmy-block)
+- [P2PoW](https://github.com/anarkrypto/P2PoW)
+
+## Awards
+
+- ZeroPoll, a private poll powered by zero-knowledge proofs. Awarded by Mina Foundation. [Announcement](https://forums.minaprotocol.com/t/zeropoll-voting-polls) [Github](https://github.com/anarkrypto/zeropoll)
+- P2PoW, a p2p proof-of-work solution for Nano cryptocurrency. [Winner of NanoJam Hackathon](https://medium.com/snapy-io/nano-jam-one-concludes-7ea7b35418a9) 
+- Fluence Faucet UI, best contributions for Fluence marketplace. [EthGlobal Showcase](https://ethglobal.com/showcase/fluence-faucet-r0ndq)

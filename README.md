@@ -4,10 +4,11 @@ I'm a full stack web developer.
 
 #typescript #react #next.js #nodejs #cloudflare-workers #tailwind #postgres
 
-Founder and Developer at [Pontuei](https:///www.pontuei.app.br)
+Software Engineer at [Ecofinance](https://grupoecofinance.com.br/)
 
 ## Other Companies:
 
+- [Pontuei](https:///www.pontuei.app.br)
 - [Construbook](https://construbook.app)
 - [Grupo Elo](https://www.grupoeloba.com.br)
 - [Bioca](https://bioca.eco)

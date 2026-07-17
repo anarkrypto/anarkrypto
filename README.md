@@ -8,6 +8,7 @@ Software Engineer at [Ecofinance](https://grupoecofinance.com.br/)
 
 ## Other Companies:
 
+- [Dono.Ai](https://somosdono.ai)
 - [Pontuei](https:///www.pontuei.app.br)
 - [Construbook](https://construbook.app)
 - [Grupo Elo](https://www.grupoeloba.com.br)

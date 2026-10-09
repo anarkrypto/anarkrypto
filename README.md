@@ -4,11 +4,10 @@ I'm a full stack web developer.
 
 #typescript #react #next.js #nodejs #cloudflare-workers #tailwind #postgres
 
-Software Engineer at [Ecofinance](https://grupoecofinance.com.br/)
+Software Engineer at [Ecofinance](https://grupoecofinance.com.br/) and [Dono.Ai](https://somosdono.ai)
 
-## Other Companies:
+## Others:
 
-- [Dono.Ai](https://somosdono.ai)
 - [Pontuei](https:///www.pontuei.app.br)
 - [Construbook](https://construbook.app)
 - [Grupo Elo](https://www.grupoeloba.com.br)
